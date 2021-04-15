@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\bin\Debug\trainee_test_project.exe.config
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\bin\Debug\trainee_test_project.exe
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\bin\Debug\trainee_test_project.pdb
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\obj\Debug\trainee_test_project.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\obj\Debug\trainee_test_project.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\obj\Debug\trainee_test_project.exe
+C:\Users\user\Source\Repos\trainee_test_project\trainee_test_project\obj\Debug\trainee_test_project.pdb
