@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="choice_fibonacci_lines.cs" />
+    <Compile Include="Fibonacci.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reverse_str.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
